@@ -25,5 +25,6 @@
   - [Tweets from @CodeWisdom](https://twitter.com/CodeWisdom)
   - [r/AskProgramming](https://www.reddit.com/r/AskProgramming/)
   - [r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/)
-  
+  - [the morning paper](https://blog.acolyer.org/) (_Adrian Colyer_)
+ 
 - [Awesome list of weekly subscriptions](https://github.com/jondot/awesome-weekly) (_Dotan J. Nahum_)
