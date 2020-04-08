@@ -27,6 +27,6 @@
   - [r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/)
   - [the morning paper](https://blog.acolyer.org/) (_Adrian Colyer_)
   - [Julia Evans Newsletter](https://jvns.ca/newsletter/) (_Julia Evans_)
-  - [Zapier Blog](https://zapier.com/blog/) (_Zapier_)
+  - [Zapier Blog](https://zapier.com/engineering/) (_Zapier_)
 
 - [Awesome list of weekly subscriptions](https://github.com/jondot/awesome-weekly) (_Dotan J. Nahum_)
